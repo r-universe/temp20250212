@@ -5,6 +5,9 @@
 [submodule "MultiTraits"]
 	path = MultiTraits
 	url = https://github.com/temp20250212/multitraits
+[submodule "PNC"]
+	path = PNC
+	url = https://github.com/cran/PNC
 [submodule "emf"]
 	path = emf
 	url = https://github.com/cran/emf
